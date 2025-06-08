@@ -1,0 +1,325 @@
+[
+  {
+    "word": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "translation": {
+      "en-EN": ["eat"],
+      "de-DE": ["essen"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "translation": {
+      "en-EN": ["drink"],
+      "de-DE": ["trinken"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "行く",
+    "hiragana": "いく",
+    "romaji": "iku",
+    "translation": {
+      "en-EN": ["go"],
+      "de-DE": ["gehen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "translation": {
+      "en-EN": ["come"],
+      "de-DE": ["kommen"]
+    },
+    "comment": {},
+    "group": 3
+  },
+  {
+    "word": "する",
+    "hiragana": "する",
+    "romaji": "suru",
+    "translation": {
+      "en-EN": ["do"],
+      "de-DE": ["machen"]
+    },
+    "comment": {},
+    "group": 3
+  },
+  {
+    "word": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "translation": {
+      "en-EN": ["speak"],
+      "de-DE": ["sprechen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "translation": {
+      "en-EN": ["hear", "ask"],
+      "de-DE": ["hören", "fragen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "translation": {
+      "en-EN": ["see"],
+      "de-DE": ["sehen"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "translation": {
+      "en-EN": ["write"],
+      "de-DE": ["schreiben"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "読む",
+    "hiragana": "よむ",
+    "romaji": "yomu",
+    "translation": {
+      "en-EN": ["read"],
+      "de-DE": ["lesen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "起きる",
+    "hiragana": "おきる",
+    "romaji": "okiru",
+    "translation": {
+      "en-EN": ["wake up"],
+      "de-DE": ["aufwachen"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "寝る",
+    "hiragana": "ねる",
+    "romaji": "neru",
+    "translation": {
+      "en-EN": ["sleep"],
+      "de-DE": ["schlafen"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "買う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "translation": {
+      "en-EN": ["buy"],
+      "de-DE": ["kaufen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "会う",
+    "hiragana": "あう",
+    "romaji": "au",
+    "translation": {
+      "en-EN": ["meet"],
+      "de-DE": ["treffen", "verabreden"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "translation": {
+      "en-EN": ["walk", "go"],
+      "de-DE": ["laufen", "gehen"]
+    },
+    "comment": {
+      "en-EN": "by feet",
+      "de-DE": "zu Fuß"
+    },
+    "group": 1
+  },
+  {
+    "word": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "translation": {
+      "en-EN": ["run"],
+      "de-DE": ["rennen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "働く",
+    "hiragana": "はたらく",
+    "romaji": "hataraku",
+    "translation": {
+      "en-EN": ["work"],
+      "de-DE": ["arbeiten"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "遊ぶ",
+    "hiragana": "あそぶ",
+    "romaji": "asobu",
+    "translation": {
+      "en-EN": ["play"],
+      "de-DE": ["spielen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "translation": {
+      "en-EN": ["use"],
+      "de-DE": ["benutzen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "教える",
+    "hiragana": "おしえる",
+    "romaji": "oshieru",
+    "translation": {
+      "en-EN": ["teach"],
+      "de-DE": ["lehren"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "wasureru",
+    "translation": {
+      "en-EN": ["forget"],
+      "de-DE": ["vergessen"]
+    },
+    "comment": {},
+    "group": 2
+  },
+  {
+    "word": "始める",
+    "hiragana": "はじめる",
+    "romaji": "hajimeru",
+    "translation": {
+      "en-EN": ["start", "begin"],
+      "de-DE": ["starten", "beginnen"]
+    },
+    "comment": {
+      "en-EN": "transitive",
+      "de-DE": "transitiv"
+    },
+    "group": 2
+  },
+  {
+    "word": "始まる",
+    "hiragana": "はじまる",
+    "romaji": "hajimaru",
+    "translation": {
+      "en-EN": ["start", "begin"],
+      "de-DE": ["starten", "beginnen"]
+    },
+    "comment": {
+      "en-EN": "intransitive",
+      "de-DE": "intransitiv"
+    },
+    "group": 1
+  },
+  {
+    "word": "終える",
+    "hiragana": "おえる",
+    "romaji": "oeru",
+    "translation": {
+      "en-EN": ["end", "finish"],
+      "de-DE": ["enden", "aufhören"]
+    },
+    "comment": {
+      "en-EN": "transitive",
+      "de-DE": "transitiv"
+    },
+    "group": 2
+  },
+  {
+    "word": "終わる",
+    "hiragana": "おわる",
+    "romaji": "owaru",
+    "translation": {
+      "en-EN": ["end", "finish"],
+      "de-DE": ["enden", "aufhören"]
+    },
+    "comment": {
+      "en-EN": "intransitive",
+      "de-DE": "intransitiv"
+    },
+    "group": 1
+  },
+  {
+    "word": "帰る",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "translation": {
+      "en-EN": ["return"],
+      "de-DE": ["zurückkehren"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "translation": {
+      "en-EN": ["swim"],
+      "de-DE": ["schwimmen"]
+    },
+    "comment": {},
+    "group": 1
+  },
+  {
+    "word": "作る",
+    "hiragana": "つくる",
+    "romaji": "tsukuru",
+    "translation": {
+      "en-EN": ["make", "create", "build", "prepare"],
+      "de-DE": ["machen", "herstellen", "bauen", "zubereiten"]
+    },
+    "comment": {},
+    "group": 1
+  }
+]
